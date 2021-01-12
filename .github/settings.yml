@@ -9,6 +9,7 @@ repository:
   has_projects:                          false
   has_wiki:                              false
   has_downloads:                         false
+  has_pages:                             true
   default_branch:                        main
   is_template:                           false
   allow_squash_merge:                    true
